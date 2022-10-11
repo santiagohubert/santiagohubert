@@ -2,7 +2,7 @@
 
 Egresado del Bootcamp SoyHenry rocket con mas de 700 horas te programación teorica - practica. En el mismo ademas de programar, aprendi a trabajar en equipo, resolver problemas, liderar un proyecto, cultivar intensamente la creatividad y potenciar mi interés por investigar constantemente, entre otras cosas. Sigo profundizando mis conocimientos en las tecnologias que domino (e indagando en nuevas) para seguir creciendo como profesional.
 
-Me considero una persona proactiva, que se ve a los "problemas" como oportunidades, que se abre a descubrir lo trae cada desafío y me gusta aprender cosas nuevas continuamente. booksnotebook
+Me considero una persona proactiva, que ve a los "problemas" como oportunidades, que se abre a descubrir el crecimiento que esconde cada desafío y me gusta aprender cosas nuevas continuamente. 
 
 En este momento trabajo con las tecnologías:
 
