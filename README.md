@@ -23,7 +23,7 @@ En este momento trabajo con las tecnologías:
 
 y que hago cuando no estudio? Deportes, comparto con amigos, escribo, canto, medito, leo.
 
-Como contactarme? arrow_right
+Como contactarme?
 
     speech_balloon https://github.com/santiagohubert
     mailbox santiagohubert11@gmail.com
