@@ -12,6 +12,9 @@ En este momento trabajo con las tecnologías:
     ⚡ReactJs
     ⚡Node.Js
     ⚡Express
+    ⚡PHP
+    ⚡Laravel
+    ⚡VueJs
     ⚡Sequelize
     ⚡Postgresql
     ⚡NextJs
